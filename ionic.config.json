@@ -1,5 +1,7 @@
 {
   "name": "ass2",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }

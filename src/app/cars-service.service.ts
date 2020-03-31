@@ -6,7 +6,6 @@ import { Injectable } from '@angular/core';
 export class CarsService {
   cars = [
     { reg: '3198', model: '2000', name: 'GLI' },
-    { reg: '3199', model: '2010', name: 'XLI' },
     { reg: '3200', model: '2011', name: 'FREED' },
     { reg: '3201', model: '1990', name: 'Ferrari' },
     { reg: '3204', model: '1999', name: 'BMW' },
@@ -15,7 +14,7 @@ export class CarsService {
     { reg: '3223', model: '1985', name: 'Mehran ' },
     { reg: '3225', model: '1970', name: 'VXR' },
     { reg: '3227', model: '1979', name: 'SWIFT' },
-    { reg: '3238', model: '2004', name: 'Lamborgni' },
+    { reg: '3238', model: '2004', name: 'Lamborgini' },
     { reg: '3240', model: '2005', name: 'VITZ' },
     { reg: '3251', model: '2008', name: 'PRADO' },
     { reg: '3279', model: '2013', name: 'LAND CRUISER' },
